@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: ""
+        deploy: ""
+    subdomain: SillyTavern
+name: SillyTavern
+region: us-east-1
+yamlVersion: 2
